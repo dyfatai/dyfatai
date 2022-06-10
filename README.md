@@ -13,7 +13,7 @@ I am also very big on community development. I am a firm believer that while tal
 
 ---
 ### Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatai-sanni/)
+[![Linkedin Badge](https://img.shields.io/badge/-Fatai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatai-sanni/)
 
 ---
 ### Technology stack
