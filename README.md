@@ -1,11 +1,9 @@
 #### Hi there 👋
 
 
-**dyfatai/dyfatai** is a ✨ _special_ ✨ I am Microsoft Certified Trainer and Certified ✨ _Data Analyst_ ✨ skilled in collecting, cleaning, and transforming data into insights for driving business decisions. I am an experienced professional with 6 years of experience in helping companies use a data-driven approach to reduce costs, optimize business operations, and maximize profit.
+**dyfatai/dyfatai** is a Microsoft Certified Trainer and Certified ✨_Data Analyst_✨ skilled in collecting, cleaning, and transforming data into insights for driving business decisions. I am an experienced professional with 6 years of experience in helping companies use a data-driven approach to reduce costs, optimize business operations, and maximize profit.
 
-I am also very big on community development. I am a firm believer that while talent is evenly distributed, opportunity is not. As such, I train, coach, and mentor enthusiasts on the data analytics track. So far, I have trained over 400 professionals and mentored 4 individuals to successful careers in data analytics.
-
-
+I am also very big on community development. I am a firm believer that while talent is evenly distributed, opportunity is not. As such, I train, coach, and mentor enthusiasts on the data analytics track.
 
 
 - 🔭 I’m currently working on building enterprise data analytics solutions
